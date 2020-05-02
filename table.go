@@ -17,7 +17,7 @@ import (
 )
 
 const (
-	MAX_ROW_WIDTH = 30
+	MAX_ROW_WIDTH = 50
 )
 
 const (
